@@ -1,2 +1,2 @@
 # LaTeX_Material
-Material on LaTeX commands for Report, Paper and Presentation
+Material on LaTeX commands for creating Report, Paper and Presentation.
